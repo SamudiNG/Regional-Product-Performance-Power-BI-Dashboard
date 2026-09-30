@@ -49,4 +49,5 @@ The dashboard includes:
 ## Author
 **Samudi Tharusha**
 
-Skills: Power BI | SQL | Excel | Supply Chain Management | Data Analysis
+## Skills
+Power BI | SQL | Excel | Supply Chain Management | Data Analysis
