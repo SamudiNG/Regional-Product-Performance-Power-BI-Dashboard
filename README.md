@@ -1,7 +1,7 @@
 # Regional & Product Performance Dashboard
 
 ## Project Overview
-This project presents an interactive Power BI dashboard designed to analyze regional and product performance. It provides insights into sales, profitability, product performance, customer segments, country-level performance, and monthly sales trends to support data-driven decision-making.
+This project presents an interactive Power BI dashboard designed to analyze regional and product performance. It provides insights into sales, profitability, product performance, customer segments, country-level performance and monthly sales trends to support data-driven decision-making.
 
 ## Key KPIs
 - Total Sales - 78.41M
@@ -20,7 +20,7 @@ The dashboard includes:
 - Sales by Segment
 - Profit by Segment
 - Monthly Sales Trend
-- Interactive Date, Product, Country, and Segment filters
+- Interactive Date, Product, Country and Segment filters
 
 ## Tools & Technologies
 - Power BI
