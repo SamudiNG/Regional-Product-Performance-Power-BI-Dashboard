@@ -122,5 +122,4 @@ Microsoft Excel
 ## Author
 **Samudi Tharusha**
 
-## Skills
-Power BI | SQL | Excel | Supply Chain Management | Data Analysis
+
